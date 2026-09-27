@@ -154,3 +154,7 @@ B.Tech Computer Science and Engineering
 ### ⭐ Project Status
 
 **Completed — Beginner C++ Console Project**
+
+## 📸 Application Preview
+
+![Student Management System](student-management-preview.png)
